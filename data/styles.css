@@ -76,6 +76,8 @@
 .image {
   color:#000000;
 }
+.horizontal_line {
+}
 .vertical_line {
 }
 .box_1 {
@@ -92,6 +94,13 @@
   font-weight:700;
   font-style:normal;
   font-size:24px;
+  text-align:left;
+}
+.heading_41 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
   text-align:left;
 }
 .shape1 {
